@@ -28,11 +28,11 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="Odoo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dodoo&psig=AOvVaw2wZyva00H5PYn576g2KsNB&ust=1738144306497000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCqi6KSmIsDFQAAAAAdAAAAABAE" />
+  <img alt="Odoo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOdoo_logo.svg&psig=AOvVaw0JcfjR1NWUG3STvyPZQZhE&ust=1738145331863000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC0sYqWmIsDFQAAAAAdAAAAABAE" />
   <img alt="Django" src="https://www.cleanpng.com/png-website-development-django-python-web-framework-so-6010968/" /> 
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  <img alt="Xml" src="https://png.pngtree.com/png-clipart/20190614/original/pngtree-xml-vector-icon-png-image_3751484.jpg" />
+  <img alt="Xml" src="https://www.flaticon.com/free-icons/xml-format" />
   </br>
 </p>
 <br/>
