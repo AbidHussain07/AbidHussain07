@@ -27,11 +27,11 @@
 
 <h3>My coding stack: </h3>
 <p>
-  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="Odoo" src="https://img.icons8.com/?size=100&id=66749&format=png&color=000000" />
+  <img alt="Python" src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" />
+  <img alt="Odoo" src="https://img.icons8.com/?size=100&id=Q85pGOSbHD8m&format=png&color=000000" />
   <img alt="Django" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" /> 
-  <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
-  <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
+  <img alt="PostgreSql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" /> 
+  <img alt="Github" src="https://img.icons8.com/?size=100&id=dQUAwwnconR8&format=png&color=000000" /> 
   <img alt="Xml" src="https://img.icons8.com/?size=100&id=BrDQnd5GDYa6&format=png&color=000000" />
   </br>
 </p>
