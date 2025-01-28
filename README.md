@@ -28,7 +28,7 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="Odoo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOdoo_logo.svg&psig=AOvVaw0JcfjR1NWUG3STvyPZQZhE&ust=1738145331863000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC0sYqWmIsDFQAAAAAdAAAAABAE" />
+  <img alt="Odoo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.odoo.com%2Fpage%2Fbrand-assets&psig=AOvVaw0JcfjR1NWUG3STvyPZQZhE&ust=1738145331863000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC0sYqWmIsDFQAAAAAdAAAAABAJ" />
   <img alt="Django" src="https://www.cleanpng.com/png-website-development-django-python-web-framework-so-6010968/" /> 
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
