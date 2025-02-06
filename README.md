@@ -1,16 +1,19 @@
 
 ### Hi there 👋, Abid Hussain here with you!
+<h3 align="center"> Find Me at </h3>
+<p align="center"><a href="https://abidhussain07.github.io"><img width="80%" alt="Hello, I'm Abid Hussain. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<br />
 
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="150">
 <br>
 
-   
+<p align="center">
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abidhussain.siddhpura.1/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abid-hussain-siddhpura-329880272/) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abidhussainsiddhpura2703@gmail.com)
-
+</p> 
 <br/>
 
 <p align="center">
