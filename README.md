@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Abid Hussain here with you!
 <h3 align="center"> Find Me at </h3>
-<p align="center"><a href="https://abidhussain07.github.io"><img width="80%" alt="Hello, I'm Abid Hussain. I do open source!" src="./assets/name_greet.png" /></a></p>
+<p align="center"><a href="https://abidhussain07.github.io"><img src="asset/img/profile.jpg" alt="Your Image" width="200" height="200" style="border-radius: 50%;"/></a></p>
 <br />
 
 <p align="center">
@@ -31,7 +31,7 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" />
-  <img alt="Odoo" src="https://img.icons8.com/?size=100&id=Q85pGOSbHD8m&format=png&color=000000" />
+  <img alt="Odoo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dodoo&psig=AOvVaw3i9vuwjXTBTUq9L9JBf6oH&ust=1739530449567000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi7iYe-wIsDFQAAAAAdAAAAABAI" />
   <img alt="Django" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" /> 
   <img alt="PostgreSql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" /> 
   <img alt="Github" src="https://img.icons8.com/?size=100&id=dQUAwwnconR8&format=png&color=000000" /> 
