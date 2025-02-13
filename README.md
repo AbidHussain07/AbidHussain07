@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Abid Hussain here with you!
 <h3 align="center"> Find Me at </h3>
-<p align="center"><a href="https://abidhussain07.github.io"><img src="asset/img/profile.jpg" alt="Your Image" width="200" height="200" style="border-radius: 50%;"/></a></p>
+<p align="center"><a href="https://abidhussain07.github.io"><img src="profile.jpg" alt="Your Image" width="200" height="200" style="border-radius: 50%;"/></a></p>
 <br />
 
 <p align="center">
