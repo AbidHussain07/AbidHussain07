@@ -31,7 +31,7 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" />
-  <img alt="Odoo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dodoo&psig=AOvVaw3i9vuwjXTBTUq9L9JBf6oH&ust=1739530449567000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi7iYe-wIsDFQAAAAAdAAAAABAI" />
+  <img alt="Odoo" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dodoo&psig=AOvVaw3i9vuwjXTBTUq9L9JBf6oH&ust=1739530449567000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi7iYe-wIsDFQAAAAAdAAAAABAI](https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png)" />
   <img alt="Django" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" /> 
   <img alt="PostgreSql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" /> 
   <img alt="Github" src="https://img.icons8.com/?size=100&id=dQUAwwnconR8&format=png&color=000000" /> 
