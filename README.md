@@ -1,43 +1,50 @@
-
-### Hi there 👋, Abid Hussain here with you!
-<h3 align="center"> Find Me at </h3>
-<p align="center"><a href="https://abidhussain07.github.io"><img src="profile.jpg" alt="Your Image" width="300" height="250" style="border-radius: 80%;"/></a></p>
-<br />
+<h1 align="center">✨ Hey, I'm <span style="color:#ff5f8f;">Abid Hussain</span> ✨</h1>
 
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="150">
-<br>
-
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abidhussain.siddhpura.1/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abid-hussain-siddhpura-329880272/) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abidhussainsiddhpura2703@gmail.com)
-
-<br/>
+  <b>Odoo Developer | Python Enthusiast | Django Lover | Tech Explorer</b>
+</p>
 
 <p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Abidhussain07&show_icons=true&theme=radical"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidhussain07&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
-   </table>
+  <marquee width="60%" direction="right" scrollamount="6">
+     🚀 Passionate about automating business workflows using Odoo, Django & Python 🚀
+  </marquee>
 </p>
 
-<h3>My coding stack: </h3>
-<p>
-  <img alt="Python" src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" />
-  <img alt="Odoo" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dodoo&psig=AOvVaw3i9vuwjXTBTUq9L9JBf6oH&ust=1739530449567000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi7iYe-wIsDFQAAAAAdAAAAABAI](https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png)" />
-  <img alt="Django" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" /> 
-  <img alt="PostgreSql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" /> 
-  <img alt="Github" src="https://img.icons8.com/?size=100&id=dQUAwwnconR8&format=png&color=000000" /> 
-  <img alt="Xml" src="https://img.icons8.com/?size=100&id=BrDQnd5GDYa6&format=png&color=000000" />
-  </br>
-</p>
-<br/>
-<br/>
+---
 
+## 🧑‍💻 About Me
+```python
+class AbidHussain:
+    def __init__(self):
+        self.role = "Odoo Developer & Python Programmer"
+        self.skills = ["Odoo", "Python", "Django", "PostgreSQL", "JS", "XML"]
+        self.goal = "Build scalable solutions and help businesses through automation"
+
+    def say_hi(self):
+        return "Thanks for visiting my GitHub 😄"
+
+me = AbidHussain()
+print(me.say_hi())
+```
+
+🚀 Tech Stack
+pgsql
+Copy code
+⚙ Python        ⚙ Odoo Framework  
+⚙ Django        ⚙ PostgreSQL  
+⚙ JavaScript    ⚙ XML / QWeb  
+⚙ Git & GitHub  ⚙ API Integrations 
+
+## 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abidhussain07&theme=tokyonight&show_icons=true" height="170px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidhussain07&theme=tokyonight&layout=compact" height="170px"/> </p>
+
+## 🔥 Fun Dynamic Banner
+<p align="center"> <marquee direction="left" scrollamount="7"> 💡 Odoo Developer • 🧠 Problem Solver • ❤️ Loves Open Source • ⚡ Learning Everyday • 🚀 Aim: Become Odoo Expert </marquee> </p>
+
+## 🌍 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/abid-hussain-siddhpura-329880272/">LinkedIn</a> • <a href="mailto:abidhussainsiddhpura2703@gmail.com">Gmail</a> • <a href="https://abidhussain07.github.io">Portfolio</a> • <a href="https://www.facebook.com/abidhussain.siddhpura.1/">Facebook</a> </p>
+
+## 🏆 Quote I Live By
+"The best way to predict the future is to create it."
+
+<p align="center"> Made with ❤️ by <b>Abid Hussain</b> </p>
