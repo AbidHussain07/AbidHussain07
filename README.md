@@ -27,13 +27,13 @@ me = AbidHussain()
 print(me.say_hi())
 ```
 
-🚀 Tech Stack
-pgsql
-Copy code
+## 🚀 Tech Stack
+<p align="center">
 ⚙ Python        ⚙ Odoo Framework  
 ⚙ Django        ⚙ PostgreSQL  
 ⚙ JavaScript    ⚙ XML / QWeb  
 ⚙ Git & GitHub  ⚙ API Integrations 
+</p>
 
 ## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abidhussain07&theme=tokyonight&show_icons=true" height="170px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidhussain07&theme=tokyonight&layout=compact" height="170px"/> </p>
