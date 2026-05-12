@@ -27,7 +27,7 @@ me = AbidHussain()
 print(me.say_hi())
 ```
 
-## Connect With Me
+## 🌍 Connect With Me
 
 <div align="center">
   
@@ -39,22 +39,45 @@ print(me.say_hi())
 
 ---
 
-## 🚀 Tech Stack
-<p align="center">
-⚙ Python        ⚙ Odoo Framework  
-⚙ Django        ⚙ PostgreSQL  
-⚙ JavaScript    ⚙ XML / QWeb  
-⚙ Git & GitHub  ⚙ API Integrations 
-</p>
+## Tech Stack & Tools
 
-## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abidhussain07&theme=tokyonight&show_icons=true" height="170px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidhussain07&theme=tokyonight&layout=compact" height="170px"/> </p>
+### Languages & Frameworks
+<div align="center">
+  
+  ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![OWL JS](https://img.shields.io/badge/OWL_JS-7C3AED?style=for-the-badge&logo=javascript&logoColor=white)
+
+</div>
+
+### Database
+<div align="center">
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### Tools & Platforms
+<div align="center">
+  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
+</div>
+
+---
+
 
 ## 🔥 Fun Dynamic Banner
 <p align="center"> <marquee direction="left" scrollamount="7"> 💡 Odoo Developer • 🧠 Problem Solver • ❤️ Loves Open Source • ⚡ Learning Everyday • 🚀 Aim: Become Odoo Expert </marquee> </p>
-
-## 🌍 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/abid-hussain-siddhpura-329880272/">LinkedIn</a> • <a href="mailto:abidhussainsiddhpura2703@gmail.com">Gmail</a> • <a href="https://abidhussain07.github.io">Portfolio</a> • <a href="https://www.facebook.com/abidhussain.siddhpura.1/">Facebook</a> </p>
 
 ## 🏆 Quote I Live By
 "The best way to predict the future is to create it."
