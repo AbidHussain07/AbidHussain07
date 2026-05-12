@@ -27,6 +27,18 @@ me = AbidHussain()
 print(me.say_hi())
 ```
 
+## Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abid-hussain-siddhpura-329880272)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_Abidhussain_?t=ylnwyWkJKaWOHTNoD2SRkQ&s=09)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbidHussain07)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://abidhussain07.github.io/)
+</div>
+
+---
+
 ## 🚀 Tech Stack
 <p align="center">
 ⚙ Python        ⚙ Odoo Framework  
